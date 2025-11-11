@@ -53,7 +53,7 @@ In simple terms, the SDK lets developers use LLMs not just for conversation, but
 ## 🧱 System Architecture
 The following diagram illustrates the overall structure of the Super Market Agent system and how different agents interact with each other:
 
-![System Architecture](assets/system_diagram.jpg)
+![System Architecture](assets\system_diagram_img.jpg)
 
 ---
 
