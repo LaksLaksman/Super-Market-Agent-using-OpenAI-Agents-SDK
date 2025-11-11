@@ -5,6 +5,7 @@
 * [General Overview](#general-overview)
 * [General Workflow](#general-workflow)
 * [OpenAI Agents SDK Overview](#openai-agents-sdk-overview)
+* [System Architecture](#system-architecture) 
 * [Agents and Tools](#agents-and-tools)
 * [Setup and Usage](#setup-and-usage)
 * [Dependencies](#dependencies)
@@ -46,6 +47,13 @@ This structure provides:
 In simple terms, the SDK lets developers use LLMs not just for conversation, but to **manage complex workflows with predefined logic and control with natural language understanding**.
 
 > For more information, refer to the [OpenAI Agents SDK Documentation](https://platform.openai.com/docs/agents).
+
+---
+
+## 🧱 System Architecture
+The following diagram illustrates the overall structure of the Super Market Agent system and how different agents interact with each other:
+
+![System Architecture](assets/system_diagram.jpg)
 
 ---
 
